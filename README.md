@@ -16,6 +16,7 @@ http://order.stefan.zerofood.cz/  s@s.gmail.com pw: s
 The backend:
 http://stefan.zerofood.cz/ 
 
+And they all have been redirected to the teeside server on: https://w9308612.scedt.tees.ac.uk/
 
 For local host:
 
